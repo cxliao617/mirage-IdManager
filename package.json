@@ -1,6 +1,6 @@
 {
   "name": "miragejs-idmanager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "miragejs custom identityManager",
   "main": "dist/IdManager",
   "types": "dist/IdManager",
