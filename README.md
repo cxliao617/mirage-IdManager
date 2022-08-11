@@ -1,5 +1,5 @@
-# miragejs-uuidManager
-miragejs custom uuid identityManager
+# miragejs-IdManager
+miragejs custom id identityManager
 
 ## Support with UUID v4 and ObjectId
 ### UUIDv4 manager
